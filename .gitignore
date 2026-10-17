@@ -1,0 +1,42 @@
+# Système, éditeurs et caches locaux
+.DS_Store
+._*
+Thumbs.db
+.venv/
+.pio/
+.platformio/
+.cache/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+*.swp
+*.swo
+*.part
+
+# Configuration personnelle et captures privées
+.env
+.env.*
+!.env.example
+include/secrets.h
+captures-privees/
+.agents/
+.codex/
+.aws/
+.ssh/
+
+# Sources amont : restaurées à partir du manifeste et du registre français
+upstream/archives/
+upstream/sources/*
+!upstream/sources/.gitkeep
+!upstream/sources/README.md
+
+# Constructions, sauvegardes de préparation et aperçus temporaires
+build/
+tmp/
+
+# Livrable public conservé ; les exports ZIP restent locaux
+output/*
+!output/pdf/
+output/pdf/*
+!output/pdf/Cardputer-Guide-complet-FR.pdf

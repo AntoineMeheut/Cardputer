@@ -1,0 +1,31 @@
+GUIDE CARDPUTER — ÉDITION FRANÇAISE DU 17 OCTOBRE 2026
+
+Depuis la racine du projet, sous macOS :
+
+  .venv/bin/python -m pip install -r tools/guide_pdf/requirements.txt
+  .venv/bin/python tools/guide_pdf/prepare.py
+  .venv/bin/python tools/guide_pdf/build.py
+
+Sortie : output/pdf/Cardputer-Guide-complet-FR.pdf
+Travail intermédiaire : tmp/pdfs/
+
+Le générateur utilise les polices Arial et Menlo fournies avec macOS.
+Les sources upstream doivent être extraites et les captures existantes
+docs/assets/captures et docs/assets/portails doivent être présentes.
+
+content.py contient les notices françaises rédigées pour cette édition.
+prepare.py recense les sources et prépare les extraits documentaires.
+build.py compose le PDF, ses liens, ses signets et ses quatre pièces jointes.
+
+Les deux PNG de assets/ sont des captures de navigateur réalisées pour
+le guide : modulation OOK et fiche documentaire M5Cardputer. Ils ne sont
+pas des captures de firmwares exécutés sur le matériel.
+
+Le rapport assets/verification-sources-2026-10-17.json est un constat daté.
+La régénération du PDF ne relance ni les essais matériels, ni les tests,
+ni la vérification des archives. Après toute modification du laboratoire,
+actualiser les notices, les chiffres de couverture et les constats datés.
+
+Contrôle visuel : rendre les pages avec PyMuPDF, puis inspecter la mise
+en page, les schémas, les extraits de code, les légendes et les annexes.
+Les fichiers temporaires de rendu ne sont pas nécessaires pour lire le PDF.

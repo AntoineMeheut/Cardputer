@@ -1,0 +1,170 @@
+{
+  "date_utc": "2026-10-10T13:52:48.520170+00:00",
+  "hardware_tested": false,
+  "platform": "espressif32@6.9.0",
+  "arduino": "2.0.17",
+  "platformio": "6.1.18",
+  "target": "ESP32-S3 / Cardputer K132",
+  "results": [
+    {
+      "environment": "diagnostic",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 519801,
+      "static_ram_bytes": 23476,
+      "firmware_sha256": "c764b34feabe0169d439ae9d68c56b7b9e47bf692af10836bc9cf44a925a9037"
+    },
+    {
+      "environment": "notes-sd",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 526013,
+      "static_ram_bytes": 23232,
+      "firmware_sha256": "c99991562d8aa4230a4866c376dbe161a3587062d8fbb04565a6b20a18a8fc0d"
+    },
+    {
+      "environment": "micro-wav",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 554885,
+      "static_ram_bytes": 55224,
+      "firmware_sha256": "0f32502782f832b894f41f4b1a9ac2e8f36617c24d4cc0eb23df7e654a9caf01"
+    },
+    {
+      "environment": "wifi-scan",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 892693,
+      "static_ram_bytes": 47556,
+      "firmware_sha256": "90e48647e9e9dc7307b28b2fc8441ef9760ae487fa838eb4a1e8d5cc1d6bb514"
+    },
+    {
+      "environment": "wifi-web",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 949869,
+      "static_ram_bytes": 49572,
+      "firmware_sha256": "3a4d28b9b78b5d6e1acfd63bb6134340a1ed1b5860db68a788b5989fc46ee5b4"
+    },
+    {
+      "environment": "ble-scan",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 1091749,
+      "static_ram_bytes": 48572,
+      "firmware_sha256": "2d70d1f1ba7f3b6b0d8c884251327a328e2165e4050c849aae00e31c32be7b72"
+    },
+    {
+      "environment": "ble-balise",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 1091113,
+      "static_ram_bytes": 48572,
+      "firmware_sha256": "ab3892630f72a89821b3aee8c42d5666ec0409ebbbcb4a1d9698581ee6c3c3bf"
+    },
+    {
+      "environment": "ir-tv",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 513009,
+      "static_ram_bytes": 23076,
+      "firmware_sha256": "4ac167266b79d4fe001354610f866a9ff633997b48d7b2c83ca47b67e0b292cb"
+    },
+    {
+      "environment": "i2c-scan",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 487405,
+      "static_ram_bytes": 23060,
+      "firmware_sha256": "84ebd3f28f395a283c3608343d5c59c4fd29e77fdb810184e1c783dd48142d4a"
+    },
+    {
+      "environment": "ir-reflectif",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 491489,
+      "static_ram_bytes": 23436,
+      "firmware_sha256": "117c20e865163a293002a71d701c43407adab759b0e215e031f5fa202d79d28b"
+    },
+    {
+      "environment": "rf433-rx",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 485377,
+      "static_ram_bytes": 23500,
+      "firmware_sha256": "8e7ba083aa29b8310f61b34aa53dcf516b61a269ffce0ebaa62129a763c6afa1"
+    },
+    {
+      "environment": "rf433-tx",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 485881,
+      "static_ram_bytes": 23508,
+      "firmware_sha256": "2ca95e8d31bc72949324c9e62f2afe3040e4bdaa41af8a3a8d82d28a599e4a53"
+    },
+    {
+      "environment": "rfid-uid",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 493905,
+      "static_ram_bytes": 23076,
+      "firmware_sha256": "e26b0f271767932102d7acdf04c636557d26f3045099d4b6a3654c5b63a907d3"
+    },
+    {
+      "environment": "rfid-bloc",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 495637,
+      "static_ram_bytes": 23084,
+      "firmware_sha256": "5799a14aac189d6dd0e2524d94cc6fd9a17f5ceabbef822c78596d9dfed9f34a"
+    },
+    {
+      "environment": "gps",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 505853,
+      "static_ram_bytes": 23700,
+      "firmware_sha256": "c1a65df9094690d21a4da151158cfc22a45a1c5f9552091fdc458dc3f7fd8006"
+    },
+    {
+      "environment": "gps-sd",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 549357,
+      "static_ram_bytes": 23896,
+      "firmware_sha256": "dc01d0a9a5de51187f7fc4a7f79ba9dbf042ac8ac9e23ffb56c65bfb92f40fb9"
+    },
+    {
+      "environment": "espnow",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 898897,
+      "static_ram_bytes": 47644,
+      "firmware_sha256": "9ab5b5929b1e5f1df0f9cb95058b8d2565c54e620f751b913dbcf14521dab449"
+    },
+    {
+      "environment": "usb-clavier",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 520673,
+      "static_ram_bytes": 35180,
+      "firmware_sha256": "446b947f28b2e86026633dc8691b68ec3598a35c8216f58e630c5f65733d46ed"
+    },
+    {
+      "environment": "fm-rda5807",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 493209,
+      "static_ram_bytes": 23364,
+      "firmware_sha256": "3e922e2343ab9a4d9f5ee39cf469015d595e5fd75f81136a398e32f6099037bb"
+    },
+    {
+      "environment": "nrf24",
+      "success": true,
+      "hardware_tested": false,
+      "flash_bytes": 488813,
+      "static_ram_bytes": 23116,
+      "firmware_sha256": "23a63ab3b78b9ff434462232d5c4941db63c12b70bc1bbecdbdf8dc011f6efd0"
+    }
+  ]
+}

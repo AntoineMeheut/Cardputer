@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-17",
+  "pdf": "Cardputer-Guide-complet-FR.pdf",
+  "sha256": "e44cb665ed43169d8baa315f5d6cc29ff4408bec21ff0b4c17d38b141bf2a49e",
+  "pages": 238,
+  "figures": 63,
+  "bookmarks": 132,
+  "links": 324,
+  "bytes": 6927782,
+  "margin_errors": [],
+  "orphan_pages": [],
+  "attachments": [
+    "inventaire-fichiers.csv",
+    "inventaire-repertoires.csv",
+    "registre-visuels.json",
+    "verification-sources.json"
+  ],
+  "coverage": {
+    "active": 20,
+    "drafts": 19,
+    "upstream": 18,
+    "microhydra_apps": 30
+  },
+  "hardware_tests_performed": false
+}

@@ -1,0 +1,106 @@
+{
+  "date_utc": "2026-10-17T14:15:57.838296+00:00",
+  "hardware_tested": false,
+  "results": [
+    {
+      "environment": "diagnostic",
+      "success": true,
+      "log": "build/diagnostic.log"
+    },
+    {
+      "environment": "notes-sd",
+      "success": true,
+      "log": "build/notes-sd.log"
+    },
+    {
+      "environment": "micro-wav",
+      "success": true,
+      "log": "build/micro-wav.log"
+    },
+    {
+      "environment": "wifi-scan",
+      "success": true,
+      "log": "build/wifi-scan.log"
+    },
+    {
+      "environment": "wifi-web",
+      "success": true,
+      "log": "build/wifi-web.log"
+    },
+    {
+      "environment": "ble-scan",
+      "success": true,
+      "log": "build/ble-scan.log"
+    },
+    {
+      "environment": "ble-balise",
+      "success": true,
+      "log": "build/ble-balise.log"
+    },
+    {
+      "environment": "ir-tv",
+      "success": true,
+      "log": "build/ir-tv.log"
+    },
+    {
+      "environment": "i2c-scan",
+      "success": true,
+      "log": "build/i2c-scan.log"
+    },
+    {
+      "environment": "ir-reflectif",
+      "success": true,
+      "log": "build/ir-reflectif.log"
+    },
+    {
+      "environment": "rf433-rx",
+      "success": true,
+      "log": "build/rf433-rx.log"
+    },
+    {
+      "environment": "rf433-tx",
+      "success": true,
+      "log": "build/rf433-tx.log"
+    },
+    {
+      "environment": "rfid-uid",
+      "success": true,
+      "log": "build/rfid-uid.log"
+    },
+    {
+      "environment": "rfid-bloc",
+      "success": true,
+      "log": "build/rfid-bloc.log"
+    },
+    {
+      "environment": "gps",
+      "success": true,
+      "log": "build/gps.log"
+    },
+    {
+      "environment": "gps-sd",
+      "success": true,
+      "log": "build/gps-sd.log"
+    },
+    {
+      "environment": "espnow",
+      "success": true,
+      "log": "build/espnow.log"
+    },
+    {
+      "environment": "usb-clavier",
+      "success": true,
+      "log": "build/usb-clavier.log"
+    },
+    {
+      "environment": "fm-rda5807",
+      "success": true,
+      "log": "build/fm-rda5807.log"
+    },
+    {
+      "environment": "nrf24",
+      "success": true,
+      "log": "build/nrf24.log"
+    }
+  ]
+}

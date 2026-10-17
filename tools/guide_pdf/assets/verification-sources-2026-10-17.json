@@ -1,0 +1,110 @@
+[
+  {
+    "id": "m5cardputer",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "m5unified",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "m5gfx",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "cardputer-demo",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "m5rfid",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "m5rfid-legacy",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "tinygpsplus",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "rc-switch",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "irremote",
+    "archive_ok": true,
+    "tree_ok": false,
+    "added": [
+      ".DS_Store",
+      "examples/.DS_Store"
+    ],
+    "missing": [],
+    "changed": []
+  },
+  {
+    "id": "rf24",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "rf24network",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "rda5807",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "launcher",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "bruce",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "evil-cardputer",
+    "archive_ok": true,
+    "tree_ok": false,
+    "added": [
+      ".DS_Store",
+      "EvilRelayAPK/.DS_Store",
+      "EvilRelayAPK/app/.DS_Store",
+      "EvilRelayAPK/app/src/.DS_Store",
+      "Github-Img/.DS_Store",
+      "Github-Img/esp32rig/.DS_Store",
+      "SD-Card-File/.DS_Store",
+      "SD-Card-File/sites/.DS_Store"
+    ],
+    "missing": [],
+    "changed": []
+  },
+  {
+    "id": "bus-pirate",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "microhydra",
+    "archive_ok": true,
+    "tree_ok": true
+  },
+  {
+    "id": "microhydra-apps",
+    "archive_ok": true,
+    "tree_ok": true
+  }
+]

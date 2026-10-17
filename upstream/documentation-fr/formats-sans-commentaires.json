@@ -1,0 +1,338 @@
+[
+  {
+    "path": "upstream/sources/m5cardputer/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5unified/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5gfx/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/cardputer-demo/components/M5GFX/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5rfid/boards/m5stack-atoms3r.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5rfid/boards/m5stack-nanoc6.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5rfid/boards/m5stack-nanoh2.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5rfid/boards/m5stick-cplus2.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/m5rfid/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/tinygpsplus/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/rc-switch/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/irremote/.vscode/settings.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/irremote/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/rf24/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/rf24network/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/rda5807/.vscode/arduino.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/.claude/settings.local.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/.vscode/settings.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32c3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32c5.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32c6.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32p4.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32p4_es.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32s2.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/_jsonfiles/esp32s3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/boards/m5stack-paper-mono/interface.cpp.bkp",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/webUi/backend/nvs_mock.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/webUi/backend/package.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/launcher/webUi/backend/partitions_mock.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/.vscode/settings.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/.vscode/tasks.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/CYD-2432S028.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/ES3C28P.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/ESP-General.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/_New-Device-Model.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/arduino-nesso-n1.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/elecrow-esp32-24B.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/esp32-c5-devkitc-1.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/esp32dev.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-deck.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-display-s3-pro.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-display-s3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-display-ttgo.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-embed-cc1101.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-embed.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-hmi.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-lora-pager.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/lilygo-t-watch-s3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-cardputer-adv.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-cardputer.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-core.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-core2.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-cores3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-cplus1_1.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-cplus2.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-dinmeter.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/m5stack-sticks3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/reaper.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/smoochiee-board.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/boards/_boards_json/xk404.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/lib/HAL/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/lib/TFT_eSPI/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/lib/TFT_eSPI_QRcode/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bruce/src/modules/NRF24/nrf_spectrum.cpp.bak",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/evil-cardputer/SD-Card-File/ciw/payloads.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/evil-cardputer/binaries/slave_unified_C5.ino.merged.bin",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/evil-cardputer/m5dial-data/SSID.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/lib/IRremote/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/lib/SmartRC-CC1101-Driver-Lib/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/lib/TFT_eSPI/library.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/atoms3lite.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/cardputer.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/cardputeradv.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/s3devkit.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/stamps3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/tembed.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/tembedcc1101.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/bus-pirate/webflasher/manifests/xiaoesp32s3.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/microhydra/devices/esp32_mpy_build/boards/MICROHYDRA_GENERIC_S3/board.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/microhydra-apps/app-source/TVSleepTimer/TVSleepTimer/config.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/microhydra-apps/catalog-output/cardputer.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/microhydra-apps/catalog-output/cardputer_adv.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  },
+  {
+    "path": "upstream/sources/microhydra-apps/catalog-output/tdeck.json",
+    "reason": "Format sans commentaire compatible ou contenu binaire : explication dans le README du répertoire."
+  }
+]

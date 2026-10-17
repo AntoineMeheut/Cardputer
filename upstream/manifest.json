@@ -1,0 +1,268 @@
+{
+  "consultation": "2026-10-10",
+  "format": 1,
+  "projects": [
+    {
+      "id": "m5cardputer",
+      "repo": "m5stack/M5Cardputer",
+      "purpose_fr": "Clavier, écran, audio, exemples Cardputer",
+      "commit": "f1392858b9994c3547120e602a57d3553d16ab01",
+      "archive_url": "https://codeload.github.com/m5stack/M5Cardputer/tar.gz/f1392858b9994c3547120e602a57d3553d16ab01",
+      "sha256": "d94a7e403815759bef08479c5a49008da7608bc093e6da47ecb00a98187a34d4",
+      "archive_bytes": 25586,
+      "tree_sha256": "2c6cb4ce4176d94040121c6b9b20beeeb554092dd37f2a6dee93bafebd47bcba",
+      "license_files": [],
+      "license_spdx": "MIT",
+      "license_evidence": "src/M5Cardputer.h"
+    },
+    {
+      "id": "m5unified",
+      "repo": "m5stack/M5Unified",
+      "purpose_fr": "Gestion du matériel M5Stack",
+      "commit": "fd40d58b8405ad1e7ed7afab548dab5e7cec5bbb",
+      "archive_url": "https://codeload.github.com/m5stack/M5Unified/tar.gz/fd40d58b8405ad1e7ed7afab548dab5e7cec5bbb",
+      "sha256": "e9283f18101662b852330fb873dad1d6f020f9ca1055075c3f222cbf699064ce",
+      "archive_bytes": 636755,
+      "tree_sha256": "39e282d0e9e6a92bd8002f6dbfd5d3f27416f72205304decaa224b72be7ff5bf",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "m5gfx",
+      "repo": "m5stack/M5GFX",
+      "purpose_fr": "Affichage, sprites, polices et capture",
+      "commit": "c5a3fefad0b38a52cc750e2c4761e339a69a7208",
+      "archive_url": "https://codeload.github.com/m5stack/M5GFX/tar.gz/c5a3fefad0b38a52cc750e2c4761e339a69a7208",
+      "sha256": "f6eb18bd00bffb1fda4ba6dc55f2989c06cdf259f1f45acab64b0d0dcd24de5d",
+      "archive_bytes": 49150736,
+      "tree_sha256": "808e6a00a233496a100e829fb774a47eed8a60cdf42e962ca6f99b73f8aafeb4",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "cardputer-demo",
+      "repo": "m5stack/M5Cardputer-UserDemo",
+      "purpose_fr": "Firmware de démonstration officiel",
+      "license_spdx": "MIT",
+      "default_branch": "main",
+      "commit": "a34d7ebcd508fb903a2b1123be8c8b54abd55d07",
+      "archive_url": "https://codeload.github.com/m5stack/M5Cardputer-UserDemo/tar.gz/a34d7ebcd508fb903a2b1123be8c8b54abd55d07",
+      "sha256": "3161b92e5c31a0ad6cb2eddc1f0086a1816cfa63fa14ffc45fe7fe2019814a6d",
+      "archive_bytes": 49950436,
+      "tree_sha256": "06d5182adb69742cfe206e6ee4ce092e22cffd80113c6907335cb32bf2997bb9",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "m5rfid",
+      "repo": "m5stack/M5Unit-RFID",
+      "purpose_fr": "RFID2 WS1850S, API récente",
+      "commit": "d69ed648a7dff8f6aa60aed8f296703ba3411267",
+      "archive_url": "https://codeload.github.com/m5stack/M5Unit-RFID/tar.gz/d69ed648a7dff8f6aa60aed8f296703ba3411267",
+      "sha256": "c60f488bde2e0dad9658eed719d32d7e7f111c414372a0a1ea1bf952df425081",
+      "archive_bytes": 227203,
+      "tree_sha256": "37fc1c266f34625727e265dbe256a7a0b2341da2dbd868282780861e18f798b4",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "m5rfid-legacy",
+      "repo": "arozcan/MFRC522-I2C-Library",
+      "purpose_fr": "Pilote I2C RFID historique",
+      "license_spdx": "LicenseRef-Public-Domain",
+      "default_branch": "master",
+      "commit": "c0e3c5d1e54745928a787a9d4e70f21fcaf59943",
+      "archive_url": "https://codeload.github.com/arozcan/MFRC522-I2C-Library/tar.gz/c0e3c5d1e54745928a787a9d4e70f21fcaf59943",
+      "sha256": "9f79382c54f57984aed90bddcdb6eccfeaf98dd4c923823edf2804021b841e41",
+      "archive_bytes": 51312,
+      "tree_sha256": "f54df8fe28299591cea7d6ceec1cc4cea1d5a340d57c3b2c3b1948133a315dbe",
+      "license_files": [],
+      "license_evidence": "MFRC522_I2C.h"
+    },
+    {
+      "id": "tinygpsplus",
+      "repo": "mikalhart/TinyGPSPlus",
+      "purpose_fr": "Analyse NMEA GPS",
+      "commit": "0a205759da22a1c54c5f5285480fe6132592a4e2",
+      "archive_url": "https://codeload.github.com/mikalhart/TinyGPSPlus/tar.gz/0a205759da22a1c54c5f5285480fe6132592a4e2",
+      "sha256": "c83d212b939ff4a8552ff1ceedd8942980a0d045174a2c3797833bca0eb48b74",
+      "archive_bytes": 40598,
+      "tree_sha256": "0904f80adf43912a03579b98ff48a399d78c6fc2c333621e311c7bf472a4bb0f",
+      "license_files": [],
+      "license_spdx": "LGPL-2.1-or-later",
+      "license_evidence": "src/TinyGPS++.h"
+    },
+    {
+      "id": "rc-switch",
+      "repo": "sui77/rc-switch",
+      "purpose_fr": "Émission/réception ASK/OOK 433 MHz",
+      "commit": "436a74b03f3dc17a29ee327af29d5a05d77f94b9",
+      "archive_url": "https://codeload.github.com/sui77/rc-switch/tar.gz/436a74b03f3dc17a29ee327af29d5a05d77f94b9",
+      "sha256": "996777b208293122e9bc97e1dca428dbe00b99fd1e6f643c3674beaf150c5cf7",
+      "archive_bytes": 13089,
+      "tree_sha256": "d64a65a61bfa9c9d47a2269b7f429e688ee84d592eeeb7a3dab1c560fd0c90d8",
+      "license_files": [],
+      "license_spdx": "LGPL-2.1-or-later",
+      "license_evidence": "RCSwitch.h"
+    },
+    {
+      "id": "irremote",
+      "repo": "crankyoldgit/IRremoteESP8266",
+      "purpose_fr": "Télécommandes IR et téléviseurs",
+      "commit": "1e2f0f3ef0a93cbf2a8ddb2e95130f8f4c584b3f",
+      "archive_url": "https://codeload.github.com/crankyoldgit/IRremoteESP8266/tar.gz/1e2f0f3ef0a93cbf2a8ddb2e95130f8f4c584b3f",
+      "sha256": "dd521a98b8eb6a4e786a7f0d85a0565b947f99296d947d9c4f52d098db398054",
+      "archive_bytes": 940216,
+      "tree_sha256": "e358b7a0262ab3b5ab57398d1aa32318d225097c952622ebc2c2a0878a4586e6",
+      "license_files": [
+        "LICENSE.txt"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE.txt"
+    },
+    {
+      "id": "rf24",
+      "repo": "nRF24/RF24",
+      "purpose_fr": "Liaison de données NRF24L01+",
+      "commit": "b11ffc3226ba886f86ac1ca0cd9dc25bb94fd496",
+      "archive_url": "https://codeload.github.com/nRF24/RF24/tar.gz/b11ffc3226ba886f86ac1ca0cd9dc25bb94fd496",
+      "sha256": "e6248704a073509d18a89c9020559b1da4d60c7293406149d4e338d5da002fd5",
+      "archive_bytes": 5808435,
+      "tree_sha256": "95e71eb70c683b0ce89879ae32e5f82b0804fe4eeebe9000a47e79c03e25be36",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "GPL-2.0",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "rf24network",
+      "repo": "nRF24/RF24Network",
+      "purpose_fr": "Réseau de capteurs NRF24",
+      "commit": "0dfe14e9b6af591af313eb2f490ef383664114fc",
+      "archive_url": "https://codeload.github.com/nRF24/RF24Network/tar.gz/0dfe14e9b6af591af313eb2f490ef383664114fc",
+      "sha256": "23d8904931fd7742fc79618fdb9fb7ae8a69de0996c7a66fcd5174d5e96e7936",
+      "archive_bytes": 1529673,
+      "tree_sha256": "d0c96af601a9aa1e70544a33b20996ffbfd3e3f602844d139373e5137040b663",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "GPL-2.0",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "rda5807",
+      "repo": "pu2clr/RDA5807",
+      "purpose_fr": "Réception radio FM avec module additionnel",
+      "commit": "7ea76d0a7d4a38e104f04895f6f438d6abe57e00",
+      "archive_url": "https://codeload.github.com/pu2clr/RDA5807/tar.gz/7ea76d0a7d4a38e104f04895f6f438d6abe57e00",
+      "sha256": "0039ec1bccbb45d0bdcb3249792f83d4da2b0b7f849536564795cec2489dcdb0",
+      "archive_bytes": 5752256,
+      "tree_sha256": "12ec2ba5c0d0a081eb125c0448176a4122d0878003121544f05ecf5bd3da3c63",
+      "license_files": [
+        "license.txt"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "license.txt"
+    },
+    {
+      "id": "launcher",
+      "repo": "bmorcelli/Launcher",
+      "purpose_fr": "Gestionnaire de firmwares Cardputer",
+      "commit": "0ae77a659e746fa52145000f726cf732cf9027fb",
+      "archive_url": "https://codeload.github.com/bmorcelli/Launcher/tar.gz/0ae77a659e746fa52145000f726cf732cf9027fb",
+      "sha256": "4a1a7b6b65c2de915ee07e6a6a31a1f413c0c6e80458035cd90ca023de7b9185",
+      "archive_bytes": 1250797,
+      "tree_sha256": "3f434f423d529fe21ab81e8d05aeac4581308c4adc3082cea60b7a0cf48e8188",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "bruce",
+      "repo": "BruceDevices/firmware",
+      "purpose_fr": "Firmware multi-outils : IR, RF, BLE, Wi-Fi, GPS",
+      "commit": "a59213f3ec6cd302fa32c2042b2700c9c24d991a",
+      "archive_url": "https://codeload.github.com/BruceDevices/firmware/tar.gz/a59213f3ec6cd302fa32c2042b2700c9c24d991a",
+      "sha256": "2c1b6232db1503fdf3bcf813204abd5397f4b2c4eedd04b623c86ab00801254f",
+      "archive_bytes": 51431299,
+      "tree_sha256": "fbd788217cd3822225910aa25796370f30009c57ac5ddd5398ce88900b72ed7e",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "AGPL-3.0",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "evil-cardputer",
+      "repo": "7h30th3r0n3/Evil-M5Core2",
+      "purpose_fr": "Firmware réseau compatible Cardputer",
+      "commit": "86fa7c4484ccaf0ef72b68fde5ac2457de17cf1b",
+      "archive_url": "https://codeload.github.com/7h30th3r0n3/Evil-M5Core2/tar.gz/86fa7c4484ccaf0ef72b68fde5ac2457de17cf1b",
+      "sha256": "766bf94831aa298dce3192a6b90421e94eceb4939c78d844696f1fd7c72457bf",
+      "archive_bytes": 202530210,
+      "tree_sha256": "5ed614f2dd542c0d0d34589f9ab78f5871f1a9f9ea708588fa34da38988b5c32",
+      "license_files": [],
+      "license_spdx": "MIT",
+      "license_evidence": "README.md"
+    },
+    {
+      "id": "bus-pirate",
+      "repo": "fxtohex/ESP32-Bus-Pirate",
+      "purpose_fr": "Laboratoire de bus, UART, I2C",
+      "commit": "fcc672668980e6cc4add64e6eb071432516d11dd",
+      "archive_url": "https://codeload.github.com/fxtohex/ESP32-Bus-Pirate/tar.gz/fcc672668980e6cc4add64e6eb071432516d11dd",
+      "sha256": "d6c93f7fa035a004f123f253e171ed017904f9771d61db0f53deb058c7ab9742",
+      "archive_bytes": 169685721,
+      "tree_sha256": "49b5138bd166ec59388166d51a389b69f9451b6f4ed1fa9db423660665482b1f",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "microhydra",
+      "repo": "echo-lalia/Cardputer-MicroHydra",
+      "purpose_fr": "MicroPython et applications Cardputer",
+      "commit": "efc62026737b4a19fb40077934afc500de61d946",
+      "archive_url": "https://codeload.github.com/echo-lalia/Cardputer-MicroHydra/tar.gz/efc62026737b4a19fb40077934afc500de61d946",
+      "sha256": "f609f687811d222a0a6dde1ca6c94048a2a0308fc494b88fc1a43636b9fbf0ea",
+      "archive_bytes": 8838650,
+      "tree_sha256": "d5a02d853eaf8350c019962396b98f5d911ff2eb89de5dc834806d9107962ff4",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "GPL-3.0",
+      "license_evidence": "LICENSE"
+    },
+    {
+      "id": "microhydra-apps",
+      "repo": "echo-lalia/MicroHydra-Apps",
+      "purpose_fr": "Applications MicroHydra",
+      "commit": "72f3e9104b442fbe1898b227e08e32a4a02b8f67",
+      "archive_url": "https://codeload.github.com/echo-lalia/MicroHydra-Apps/tar.gz/72f3e9104b442fbe1898b227e08e32a4a02b8f67",
+      "sha256": "a5ccfe80143beeccba7cfca1ca06c90cad581e614220505789da5e3afadb1eb0",
+      "archive_bytes": 505119,
+      "tree_sha256": "75799f048cbd646178b4d2cbabb5f730332fc60e46b7b48a19bf61987f35d360",
+      "license_files": [
+        "LICENSE"
+      ],
+      "license_spdx": "MIT",
+      "license_evidence": "LICENSE"
+    }
+  ]
+}
